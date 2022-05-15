@@ -58,5 +58,6 @@ y los peces regresando a la pantalla.
 Las pages estan formadas de los componentes, los componentes contienen a los assets y el codigo necesario para su ejecución
 <img src="/assets/Estructura.png" alt="Estructura de Código"/>
 
-El Backend tiene los siguientes componentes
-<img src="https://www.canva.com/design/DAFAzXPgyns/RjnxtGaoymqOvNMApag4Fg/edit?utm_content=DAFAzXPgyns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Forma Básica del Backend"/>
+El Backend en aspectos muy generales interactua de está manera.
+![server js](https://user-images.githubusercontent.com/16961656/168495666-6b941cb9-f458-4104-8fa7-a8665269945c.png)
+
