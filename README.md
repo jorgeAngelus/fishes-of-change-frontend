@@ -33,7 +33,7 @@ y los peces regresando a la pantalla.
 ![VideoWeb](/assets/VideoWeb.gif)
 
 
-![Videocel](/assets/VideoCel.gif)
+![Videocel](/assets/Videocel.gif)
 
 ## Dependencias 📦
 
@@ -52,3 +52,7 @@ y los peces regresando a la pantalla.
 
 ### Diagrama de flujo 📝
 <img src="/docs/Flow-diagram-Oil-Fish.drawio.png" alt="Diagrama Oil Fish"/>
+
+### breve explicación del funcionamiento del código 💻
+
+//Escribir lo que se hizo en el código tanto front y back
