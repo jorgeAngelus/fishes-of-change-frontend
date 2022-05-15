@@ -32,7 +32,8 @@ y los peces regresando a la pantalla.
 ## Video 🎞
 ![VideoWeb](/assets/VideoWeb.gif)
 
-![Videocel](/assets/Videocel.gif)
+
+![Videocel](/assets/VideoCel.gif)
 
 ## Dependencias 📦
 
